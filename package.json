@@ -2,7 +2,6 @@
   "name": "my_first_nft_game",
   "version": "1.0.0",
   "description": "my_first_nft_game",
-  "main": "index.js",
   "scripts": {
     "test": "react-scripts test",
     "start": "react-scripts start",
@@ -10,16 +9,8 @@
     "eject": "react-scripts eject"
 
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bonandbo/my_first_nft_game.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bonandbo/my_first_nft_game/issues"
-  },
-  "homepage": "https://github.com/bonandbo/my_first_nft_game#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.7.0",
